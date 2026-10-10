@@ -2,7 +2,7 @@
 
 ## GEN26-A0H-I231
 ### Team Details
-#### **Team Name** <<TEAM JOTA>> <br/>
+#### **Team Name** TEAM JOTA <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
